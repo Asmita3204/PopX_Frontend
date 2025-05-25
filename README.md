@@ -2,7 +2,7 @@
 
 Welcome to my PopX Frontend application! This project was created as part of an assignment, focusing on a mobile-first experience with a clean, simple UI.
 
-🌐 Live Demo: PopX Frontend
+🌐 Live Demo: https://pop-x-frontend-seven.vercel.app/
 
 🔧 What’s Inside?
 This is a fully functional frontend app that includes:
